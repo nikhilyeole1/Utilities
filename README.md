@@ -1,2 +1,4 @@
 # Utilities
-Genereal util functions
+Genereal util functions.
+
+I should convert these to a npm module
